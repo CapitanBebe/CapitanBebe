@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CapitanBebe
+- 👀 I’m interested in games, music, comics/manga and enterprise administration.
+- 🌱 I’m currently learning c+ / html / css / javascript
+- 📫 You can reach me through gmail (cedricgallo1@gmail.com) / twitter (@GalloLemos) / github
